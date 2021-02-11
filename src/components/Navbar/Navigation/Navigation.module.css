@@ -1,0 +1,27 @@
+.navigation {   
+    grid-area: navigation; 
+    background-color: gold;
+    padding-top: 30px;
+  }
+
+.nav_item {
+    margin: 50px 0px 20px 50px;
+   
+    color: white;
+    cursor: pointer;
+    text-align: left;
+}
+
+.nav_item > a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+  
+.nav_item > .selected {
+
+    color: rgb(93, 64, 51);
+    
+}

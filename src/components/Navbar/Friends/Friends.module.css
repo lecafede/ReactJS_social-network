@@ -1,0 +1,24 @@
+.friends {
+    display: flex;
+    justify-content: space-around;
+}
+
+.friend_photo > img {
+    height: 55px;
+}
+
+.friends__title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.friend_name {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}

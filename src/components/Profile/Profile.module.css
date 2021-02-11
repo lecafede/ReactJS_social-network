@@ -1,0 +1,14 @@
+/* ========[PROFILE]=========== */
+
+.profile { 
+    grid-area: profile;    
+    background-color: white; 
+  }
+  
+.profile > img {
+    width: 100%;
+
+}
+  
+
+

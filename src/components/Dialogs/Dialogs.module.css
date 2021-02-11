@@ -1,0 +1,52 @@
+.chat {
+    display: flex;
+    color: rgb(128, 115, 115);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.messages {
+    margin-left: 100px;
+}
+
+.dialogs {
+    text-align: left;
+    margin: 20px 10px
+}
+
+.dialog_chat textarea {
+    margin-top: 20px;
+    width: 35%;
+    resize: none;
+    height: 40px;
+    border: none;
+    background-color: rgb(225, 221, 221);
+    outline: none;
+    font-size: 15px;
+    padding: 10px;
+    color: rgb(128, 115, 115);
+    font-weight: 600;
+    
+}
+
+
+.dialog_chat button {
+    display: block;
+    height: 25px;
+    width: 100px;
+    outline: none;
+    border: none;
+    background-color: gold;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+
+
+
+.dialog_chat button:hover {
+    background-color: rgb(211, 183, 24);
+}

@@ -1,0 +1,10 @@
+.name .selected {
+    color: coral;
+
+}
+
+.name a {
+    color: rgb(128, 115, 115);
+    text-decoration: none;
+}
+

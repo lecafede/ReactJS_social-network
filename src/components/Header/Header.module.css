@@ -1,0 +1,15 @@
+/* ======[HEADER]====== */
+
+.header {
+    grid-area: header;
+    background-color: gold;
+
+    text-align: left;
+    line-height: 55px;
+    padding-left: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+

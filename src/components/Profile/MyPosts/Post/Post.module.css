@@ -1,0 +1,19 @@
+  
+  /* ========[POST]=========== */
+  
+  .post__item {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .post_text {
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(128, 115, 115);
+    font-weight: 600;
+  }
+  
+  .post_img img{
+    height: 75px;
+  }
